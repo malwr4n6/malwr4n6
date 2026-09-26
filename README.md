@@ -13,6 +13,7 @@ Find me around the web 🌎:
 
 ### Open Source Tools 🔧
 - [Apple Intelligence Report Parser](https://github.com/malwr4n6/Apple-Intelligence-Report-Parser) — Forensic parser for Apple Intelligence Report JSON files extracted from iOS, iPadOS, and macOS devices
+- [iLEAPP — Apple Intelligence Report artifact](https://github.com/abrignoni/iLEAPP/pull/1729) — Contributed an Apple Intelligence Report parser plugin to iLEAPP, merged Aug 2026
 
 ---
 
