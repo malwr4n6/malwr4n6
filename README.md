@@ -43,6 +43,8 @@ Find me around the web 🌎:
 
 ## Speaking 🗣
 
+- [Apple Intelligence Exposed: Reverse Engineering the AI Assistant](https://github.com/malwr4n6/Presentations/blob/main/2026/2026_BSides-Ahmedabad_Apple-Intelligence-Exposed-Reverse-Engineering-the-AI-Assistant.pdf) at BSides Ahmedabad 2026
+- [The Curious Case of Apple and Its Intelligence](https://www.bsideshanoi.net/en/agenda) at BSides Hanoi 2026 ([recording](https://www.youtube.com/watch?v=otHqDgSqOHk))
 - [The Curious Case About Apple and Its Intelligence](https://blackhat.com/asia-26/briefings/schedule/#the-curious-case-about-apple-and-its-intelligence-on-demand-only-50679) at Black Hat Asia 2026
 - [Investigating macOS Ransomware](https://blackhatmea.com/speaker/bhargav-rathod) at Black Hat MEA 2025
 - [macOS Lockdown Mode: A Forensic Deep Dive](https://nullcon.net/talk/macos-lockdown-mode-a-forensic-deep-dive/) at NullCon Goa 2025
